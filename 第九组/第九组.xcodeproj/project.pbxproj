@@ -81,6 +81,12 @@
 		AEE1086F1DF0072000DBF138 = {
 			isa = PBXGroup;
 			children = (
+				AEE108AE1DF0083400DBF138 /* 类目 */,
+				AEE108AF1DF0083400DBF138 /* 目的地 */,
+				AEE108B41DF0083400DBF138 /* 首页 */,
+				AEE108B91DF0083400DBF138 /* 我的 */,
+				AEE108BE1DF0083400DBF138 /* Other */,
+				AEE108BF1DF0083400DBF138 /* SDKs */,
 				AEE1087A1DF0072100DBF138 /* 第九组 */,
 				AEE108941DF0072100DBF138 /* 第九组Tests */,
 				AEE1089F1DF0072100DBF138 /* 第九组UITests */,
@@ -138,6 +144,150 @@
 				AEE108A21DF0072100DBF138 /* Info.plist */,
 			);
 			path = "第九组UITests";
+			sourceTree = "<group>";
+		};
+		AEE108AE1DF0083400DBF138 /* 类目 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "类目";
+			path = "第九组/类目";
+			sourceTree = "<group>";
+		};
+		AEE108AF1DF0083400DBF138 /* 目的地 */ = {
+			isa = PBXGroup;
+			children = (
+				AEE108B01DF0083400DBF138 /* Model */,
+				AEE108B11DF0083400DBF138 /* Tools */,
+				AEE108B21DF0083400DBF138 /* View */,
+				AEE108B31DF0083400DBF138 /* ViewController */,
+			);
+			name = "目的地";
+			path = "第九组/目的地";
+			sourceTree = "<group>";
+		};
+		AEE108B01DF0083400DBF138 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AEE108B11DF0083400DBF138 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		AEE108B21DF0083400DBF138 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		AEE108B31DF0083400DBF138 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		AEE108B41DF0083400DBF138 /* 首页 */ = {
+			isa = PBXGroup;
+			children = (
+				AEE108B51DF0083400DBF138 /* Model */,
+				AEE108B61DF0083400DBF138 /* Tools */,
+				AEE108B71DF0083400DBF138 /* View */,
+				AEE108B81DF0083400DBF138 /* ViewController */,
+			);
+			name = "首页";
+			path = "第九组/首页";
+			sourceTree = "<group>";
+		};
+		AEE108B51DF0083400DBF138 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AEE108B61DF0083400DBF138 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		AEE108B71DF0083400DBF138 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		AEE108B81DF0083400DBF138 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		AEE108B91DF0083400DBF138 /* 我的 */ = {
+			isa = PBXGroup;
+			children = (
+				AEE108BA1DF0083400DBF138 /* Model */,
+				AEE108BB1DF0083400DBF138 /* Tools */,
+				AEE108BC1DF0083400DBF138 /* View */,
+				AEE108BD1DF0083400DBF138 /* ViewController */,
+			);
+			name = "我的";
+			path = "第九组/我的";
+			sourceTree = "<group>";
+		};
+		AEE108BA1DF0083400DBF138 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AEE108BB1DF0083400DBF138 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		AEE108BC1DF0083400DBF138 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		AEE108BD1DF0083400DBF138 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		AEE108BE1DF0083400DBF138 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Other;
+			path = "第九组/Other";
+			sourceTree = "<group>";
+		};
+		AEE108BF1DF0083400DBF138 /* SDKs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = SDKs;
+			path = "第九组/SDKs";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
