@@ -15,6 +15,17 @@
 		AEE1088B1DF0072100DBF138 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEE108891DF0072100DBF138 /* LaunchScreen.storyboard */; };
 		AEE108961DF0072100DBF138 /* ___Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108951DF0072100DBF138 /* ___Tests.m */; };
 		AEE108A11DF0072100DBF138 /* ___UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108A01DF0072100DBF138 /* ___UITests.m */; };
+		AEE108C41DF00FEF00DBF138 /* tabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108C11DF00FEF00DBF138 /* tabBarViewController.m */; };
+		AEE108C51DF00FEF00DBF138 /* NavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108C31DF00FEF00DBF138 /* NavViewController.m */; };
+		AEE108C81DF00FFE00DBF138 /* shouYeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108C71DF00FFE00DBF138 /* shouYeViewController.m */; };
+		AEE108CB1DF0101100DBF138 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108CA1DF0101100DBF138 /* MyViewController.m */; };
+		AEE108CE1DF0101900DBF138 /* MDDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108CD1DF0101900DBF138 /* MDDViewController.m */; };
+		AEE108D51DF0109600DBF138 /* 定位 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = AEE108CF1DF0109600DBF138 /* 定位 (1).png */; };
+		AEE108D61DF0109600DBF138 /* 定位.png in Resources */ = {isa = PBXBuildFile; fileRef = AEE108D01DF0109600DBF138 /* 定位.png */; };
+		AEE108D71DF0109600DBF138 /* 我的 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = AEE108D11DF0109600DBF138 /* 我的 (1).png */; };
+		AEE108D81DF0109600DBF138 /* 我的.png in Resources */ = {isa = PBXBuildFile; fileRef = AEE108D21DF0109600DBF138 /* 我的.png */; };
+		AEE108D91DF0109600DBF138 /* 首页 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = AEE108D31DF0109600DBF138 /* 首页 (1).png */; };
+		AEE108DA1DF0109600DBF138 /* 首页.png in Resources */ = {isa = PBXBuildFile; fileRef = AEE108D41DF0109600DBF138 /* 首页.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,22 @@
 		AEE1089C1DF0072100DBF138 /* 第九组UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "第九组UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEE108A01DF0072100DBF138 /* ___UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___UITests.m"; sourceTree = "<group>"; };
 		AEE108A21DF0072100DBF138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEE108C01DF00FEE00DBF138 /* tabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tabBarViewController.h; sourceTree = "<group>"; };
+		AEE108C11DF00FEF00DBF138 /* tabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tabBarViewController.m; sourceTree = "<group>"; };
+		AEE108C21DF00FEF00DBF138 /* NavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavViewController.h; sourceTree = "<group>"; };
+		AEE108C31DF00FEF00DBF138 /* NavViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavViewController.m; sourceTree = "<group>"; };
+		AEE108C61DF00FFE00DBF138 /* shouYeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shouYeViewController.h; sourceTree = "<group>"; };
+		AEE108C71DF00FFE00DBF138 /* shouYeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = shouYeViewController.m; sourceTree = "<group>"; };
+		AEE108C91DF0101100DBF138 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		AEE108CA1DF0101100DBF138 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		AEE108CC1DF0101900DBF138 /* MDDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDDViewController.h; sourceTree = "<group>"; };
+		AEE108CD1DF0101900DBF138 /* MDDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MDDViewController.m; sourceTree = "<group>"; };
+		AEE108CF1DF0109600DBF138 /* 定位 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "定位 (1).png"; sourceTree = "<group>"; };
+		AEE108D01DF0109600DBF138 /* 定位.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "定位.png"; sourceTree = "<group>"; };
+		AEE108D11DF0109600DBF138 /* 我的 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的 (1).png"; sourceTree = "<group>"; };
+		AEE108D21DF0109600DBF138 /* 我的.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的.png"; sourceTree = "<group>"; };
+		AEE108D31DF0109600DBF138 /* 首页 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "首页 (1).png"; sourceTree = "<group>"; };
+		AEE108D41DF0109600DBF138 /* 首页.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "首页.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,8 +138,18 @@
 				AEE1087F1DF0072100DBF138 /* AppDelegate.m */,
 				AEE108811DF0072100DBF138 /* ViewController.h */,
 				AEE108821DF0072100DBF138 /* ViewController.m */,
+				AEE108C01DF00FEE00DBF138 /* tabBarViewController.h */,
+				AEE108C11DF00FEF00DBF138 /* tabBarViewController.m */,
+				AEE108C21DF00FEF00DBF138 /* NavViewController.h */,
+				AEE108C31DF00FEF00DBF138 /* NavViewController.m */,
 				AEE108841DF0072100DBF138 /* Main.storyboard */,
 				AEE108871DF0072100DBF138 /* Assets.xcassets */,
+				AEE108CF1DF0109600DBF138 /* 定位 (1).png */,
+				AEE108D01DF0109600DBF138 /* 定位.png */,
+				AEE108D11DF0109600DBF138 /* 我的 (1).png */,
+				AEE108D21DF0109600DBF138 /* 我的.png */,
+				AEE108D31DF0109600DBF138 /* 首页 (1).png */,
+				AEE108D41DF0109600DBF138 /* 首页.png */,
 				AEE108891DF0072100DBF138 /* LaunchScreen.storyboard */,
 				AEE1088C1DF0072100DBF138 /* Info.plist */,
 				AEE1087B1DF0072100DBF138 /* Supporting Files */,
@@ -190,6 +227,8 @@
 		AEE108B31DF0083400DBF138 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				AEE108CC1DF0101900DBF138 /* MDDViewController.h */,
+				AEE108CD1DF0101900DBF138 /* MDDViewController.m */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -230,6 +269,8 @@
 		AEE108B81DF0083400DBF138 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				AEE108C61DF00FFE00DBF138 /* shouYeViewController.h */,
+				AEE108C71DF00FFE00DBF138 /* shouYeViewController.m */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -270,6 +311,8 @@
 		AEE108BD1DF0083400DBF138 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				AEE108C91DF0101100DBF138 /* MyViewController.h */,
+				AEE108CA1DF0101100DBF138 /* MyViewController.m */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -396,9 +439,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEE108D61DF0109600DBF138 /* 定位.png in Resources */,
 				AEE1088B1DF0072100DBF138 /* LaunchScreen.storyboard in Resources */,
+				AEE108D91DF0109600DBF138 /* 首页 (1).png in Resources */,
+				AEE108D71DF0109600DBF138 /* 我的 (1).png in Resources */,
 				AEE108881DF0072100DBF138 /* Assets.xcassets in Resources */,
+				AEE108D51DF0109600DBF138 /* 定位 (1).png in Resources */,
 				AEE108861DF0072100DBF138 /* Main.storyboard in Resources */,
+				AEE108DA1DF0109600DBF138 /* 首页.png in Resources */,
+				AEE108D81DF0109600DBF138 /* 我的.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,9 +472,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEE108C41DF00FEF00DBF138 /* tabBarViewController.m in Sources */,
 				AEE108831DF0072100DBF138 /* ViewController.m in Sources */,
+				AEE108CE1DF0101900DBF138 /* MDDViewController.m in Sources */,
 				AEE108801DF0072100DBF138 /* AppDelegate.m in Sources */,
+				AEE108C81DF00FFE00DBF138 /* shouYeViewController.m in Sources */,
 				AEE1087D1DF0072100DBF138 /* main.m in Sources */,
+				AEE108C51DF00FEF00DBF138 /* NavViewController.m in Sources */,
+				AEE108CB1DF0101100DBF138 /* MyViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
