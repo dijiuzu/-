@@ -45,6 +45,15 @@
 		AEE109111DF0184E00DBF138 /* UIImageView+HighlightedWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108FD1DF0184E00DBF138 /* UIImageView+HighlightedWebCache.m */; };
 		AEE109121DF0184E00DBF138 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE108FF1DF0184E00DBF138 /* UIImageView+WebCache.m */; };
 		AEE109131DF0184E00DBF138 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE109011DF0184E00DBF138 /* UIView+WebCacheOperation.m */; };
+		AEE109271DF100F300DBF138 /* NetworkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE109261DF100F300DBF138 /* NetworkManager.m */; };
+		AEE1092A1DF1024900DBF138 /* ShouYeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE109291DF1024900DBF138 /* ShouYeModel.m */; };
+		AEE1092D1DF10A7C00DBF138 /* ZiYouXing.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE1092C1DF10A7C00DBF138 /* ZiYouXing.m */; };
+		AEE109301DF10B5B00DBF138 /* DangJiReMen.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE1092F1DF10B5B00DBF138 /* DangJiReMen.m */; };
+		AEE109331DF10B9E00DBF138 /* XianShiTeMai.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE109321DF10B9E00DBF138 /* XianShiTeMai.m */; };
+		AEE109391DF10EC200DBF138 /* LunBoTu.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE109381DF10EC200DBF138 /* LunBoTu.m */; };
+		AEE1093C1DF10F2300DBF138 /* LunBoTuPicture.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE1093B1DF10F2300DBF138 /* LunBoTuPicture.m */; };
+		AEE1093F1DF1109100DBF138 /* JingDianMenPiao.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE1093E1DF1109100DBF138 /* JingDianMenPiao.m */; };
+		AEE109421DF16CBD00DBF138 /* Elite1.m in Sources */ = {isa = PBXBuildFile; fileRef = AEE109411DF16CBD00DBF138 /* Elite1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -146,6 +155,24 @@
 		AEE1091D1DF0243F00DBF138 /* 22.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 22.h; sourceTree = "<group>"; };
 		AEE1091E1DF0244500DBF138 /* 33.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 33.h; sourceTree = "<group>"; };
 		AEE1091F1DF0244C00DBF138 /* 44.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 44.h; sourceTree = "<group>"; };
+		AEE109251DF100F300DBF138 /* NetworkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkManager.h; sourceTree = "<group>"; };
+		AEE109261DF100F300DBF138 /* NetworkManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkManager.m; sourceTree = "<group>"; };
+		AEE109281DF1024900DBF138 /* ShouYeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShouYeModel.h; sourceTree = "<group>"; };
+		AEE109291DF1024900DBF138 /* ShouYeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShouYeModel.m; sourceTree = "<group>"; };
+		AEE1092B1DF10A7C00DBF138 /* ZiYouXing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZiYouXing.h; sourceTree = "<group>"; };
+		AEE1092C1DF10A7C00DBF138 /* ZiYouXing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZiYouXing.m; sourceTree = "<group>"; };
+		AEE1092E1DF10B5B00DBF138 /* DangJiReMen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DangJiReMen.h; sourceTree = "<group>"; };
+		AEE1092F1DF10B5B00DBF138 /* DangJiReMen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DangJiReMen.m; sourceTree = "<group>"; };
+		AEE109311DF10B9E00DBF138 /* XianShiTeMai.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XianShiTeMai.h; sourceTree = "<group>"; };
+		AEE109321DF10B9E00DBF138 /* XianShiTeMai.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XianShiTeMai.m; sourceTree = "<group>"; };
+		AEE109371DF10EC200DBF138 /* LunBoTu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LunBoTu.h; sourceTree = "<group>"; };
+		AEE109381DF10EC200DBF138 /* LunBoTu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LunBoTu.m; sourceTree = "<group>"; };
+		AEE1093A1DF10F2300DBF138 /* LunBoTuPicture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LunBoTuPicture.h; sourceTree = "<group>"; };
+		AEE1093B1DF10F2300DBF138 /* LunBoTuPicture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LunBoTuPicture.m; sourceTree = "<group>"; };
+		AEE1093D1DF1109100DBF138 /* JingDianMenPiao.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JingDianMenPiao.h; sourceTree = "<group>"; };
+		AEE1093E1DF1109100DBF138 /* JingDianMenPiao.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JingDianMenPiao.m; sourceTree = "<group>"; };
+		AEE109401DF16CBD00DBF138 /* Elite1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Elite1.h; sourceTree = "<group>"; };
+		AEE109411DF16CBD00DBF138 /* Elite1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Elite1.m; sourceTree = "<group>"; };
 		C083A1629C7FFB47BC487233 /* Pods-第九组.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-第九组.debug.xcconfig"; path = "Pods/Target Support Files/Pods-第九组/Pods-第九组.debug.xcconfig"; sourceTree = "<group>"; };
 		CDBEF36309FF94A8DFB5EA74 /* libPods-第九组.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-第九组.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB27F09D491B3E6F734020EA /* Pods-第九组.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-第九组.release.xcconfig"; path = "Pods/Target Support Files/Pods-第九组/Pods-第九组.release.xcconfig"; sourceTree = "<group>"; };
@@ -328,6 +355,8 @@
 			isa = PBXGroup;
 			children = (
 				AEE109191DF0242600DBF138 /* 5.h */,
+				AEE109281DF1024900DBF138 /* ShouYeModel.h */,
+				AEE109291DF1024900DBF138 /* ShouYeModel.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -336,6 +365,20 @@
 			isa = PBXGroup;
 			children = (
 				AEE1091A1DF0242C00DBF138 /* 4.h */,
+				AEE1092B1DF10A7C00DBF138 /* ZiYouXing.h */,
+				AEE1092C1DF10A7C00DBF138 /* ZiYouXing.m */,
+				AEE109311DF10B9E00DBF138 /* XianShiTeMai.h */,
+				AEE109321DF10B9E00DBF138 /* XianShiTeMai.m */,
+				AEE1092E1DF10B5B00DBF138 /* DangJiReMen.h */,
+				AEE1092F1DF10B5B00DBF138 /* DangJiReMen.m */,
+				AEE109401DF16CBD00DBF138 /* Elite1.h */,
+				AEE109411DF16CBD00DBF138 /* Elite1.m */,
+				AEE109371DF10EC200DBF138 /* LunBoTu.h */,
+				AEE109381DF10EC200DBF138 /* LunBoTu.m */,
+				AEE1093A1DF10F2300DBF138 /* LunBoTuPicture.h */,
+				AEE1093B1DF10F2300DBF138 /* LunBoTuPicture.m */,
+				AEE1093D1DF1109100DBF138 /* JingDianMenPiao.h */,
+				AEE1093E1DF1109100DBF138 /* JingDianMenPiao.m */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -406,6 +449,8 @@
 			isa = PBXGroup;
 			children = (
 				AEE109151DF01E4100DBF138 /* url.h */,
+				AEE109251DF100F300DBF138 /* NetworkManager.h */,
+				AEE109261DF100F300DBF138 /* NetworkManager.m */,
 			);
 			name = Other;
 			path = "第九组/Other";
@@ -682,22 +727,31 @@
 			files = (
 				AEE109111DF0184E00DBF138 /* UIImageView+HighlightedWebCache.m in Sources */,
 				AEE109081DF0184E00DBF138 /* SDWebImageDecoder.m in Sources */,
+				AEE109271DF100F300DBF138 /* NetworkManager.m in Sources */,
 				AEE109121DF0184E00DBF138 /* UIImageView+WebCache.m in Sources */,
 				AEE108C41DF00FEF00DBF138 /* tabBarViewController.m in Sources */,
 				AEE1090A1DF0184E00DBF138 /* SDWebImageDownloaderOperation.m in Sources */,
 				AEE1090B1DF0184E00DBF138 /* SDWebImageManager.m in Sources */,
 				AEE108831DF0072100DBF138 /* ViewController.m in Sources */,
+				AEE1092D1DF10A7C00DBF138 /* ZiYouXing.m in Sources */,
+				AEE109421DF16CBD00DBF138 /* Elite1.m in Sources */,
 				AEE108CE1DF0101900DBF138 /* MDDViewController.m in Sources */,
+				AEE109301DF10B5B00DBF138 /* DangJiReMen.m in Sources */,
 				AEE109091DF0184E00DBF138 /* SDWebImageDownloader.m in Sources */,
 				AEE109041DF0184E00DBF138 /* MKAnnotationView+WebCache.m in Sources */,
+				AEE109391DF10EC200DBF138 /* LunBoTu.m in Sources */,
+				AEE1093C1DF10F2300DBF138 /* LunBoTuPicture.m in Sources */,
 				AEE109071DF0184E00DBF138 /* SDWebImageCompat.m in Sources */,
 				AEE1090C1DF0184E00DBF138 /* SDWebImagePrefetcher.m in Sources */,
 				AEE109131DF0184E00DBF138 /* UIView+WebCacheOperation.m in Sources */,
 				AEE1090F1DF0184E00DBF138 /* UIImage+MultiFormat.m in Sources */,
 				AEE108801DF0072100DBF138 /* AppDelegate.m in Sources */,
 				AEE108C81DF00FFE00DBF138 /* shouYeViewController.m in Sources */,
+				AEE1093F1DF1109100DBF138 /* JingDianMenPiao.m in Sources */,
+				AEE109331DF10B9E00DBF138 /* XianShiTeMai.m in Sources */,
 				AEE1090D1DF0184E00DBF138 /* UIButton+WebCache.m in Sources */,
 				AEE109031DF0184E00DBF138 /* SVProgressHUD.m in Sources */,
+				AEE1092A1DF1024900DBF138 /* ShouYeModel.m in Sources */,
 				AEE109061DF0184E00DBF138 /* SDImageCache.m in Sources */,
 				AEE1087D1DF0072100DBF138 /* main.m in Sources */,
 				AEE108C51DF00FEF00DBF138 /* NavViewController.m in Sources */,

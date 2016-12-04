@@ -7,17 +7,23 @@
 //
 
 #import "shouYeViewController.h"
+#import "NetworkManager.h"
+#import "ShouYeModel.h"
+#import "MJExtension.h"
+
 
 @interface shouYeViewController ()
-
+@property(nonatomic,strong)NSMutableArray * ar;
 @end
 
 @implementation shouYeViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     // Do any additional setup after loading the view.
 }
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
